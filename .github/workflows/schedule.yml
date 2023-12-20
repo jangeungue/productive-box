@@ -12,5 +12,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: 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
+          GIST_ID: https://gist.github.com/jangeungue/20b690dec640a1d98e54be345a56eefb
           TIMEZONE: Asia/Seoul
